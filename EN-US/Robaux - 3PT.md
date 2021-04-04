@@ -1,4 +1,13 @@
-# Robaux - 3PT
+# Robaux - 3PT <!-- omit in toc -->
+
+- [Tripot](#tripot)
+- [LFO](#lfo)
+- [Chord Progression](#chord-progression)
+- [Quantizer](#quantizer)
+- [Random Generator](#random-generator)
+- [Sequencer](#sequencer)
+- [Euclidean Rhythm](#euclidean-rhythm)
+- [Calibration](#calibration)
 
 ![Robaux - 3PT](./images/Robaux%20-%203PT/Robaux%20-%203PT.png)
 
@@ -19,7 +28,6 @@ You can use the CV input with an external CV source instead of the big knob.
 | J K L     | Offset -50 to 50 |
 | M N O     | Maximum 0V to 5V |
 | P Q R     | CV Output        |
-
 
 ## LFO
 

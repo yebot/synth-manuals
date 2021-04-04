@@ -1,4 +1,14 @@
-# Erica Synths Black Joystick 2
+# Erica Synths Black Joystick 2 <!-- omit in toc -->
+
+- [Configuration](#configuration)
+- [Joystick](#joystick)
+- [LEDs](#leds)
+- [Y1; Y2; Y3; Y4](#y1-y2-y3-y4)
+- [X1; X2; X3; X4](#x1-x2-x3-x4)
+- [Mode](#mode)
+- [Rec](#rec)
+- [Gate](#gate)
+- [CH1; CH2; CH3; CH4/Mode](#ch1-ch2-ch3-ch4mode)
 
 ## Configuration
 
