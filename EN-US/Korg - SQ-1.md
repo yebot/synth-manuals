@@ -79,7 +79,7 @@ Controls the speed at which the sequencer runs
 
 Adjusts the duty cycle of the gate signal. Higher values make the notes sound longer.
 
-If the sequencer mode is or , the setting of this knob is ignored, and the duty cycle is controlled by channel B.
+If the sequencer mode is **CV DUTY** or **CV DUTY RANDOM**, the setting of this knob is ignored, and the duty cycle is controlled by channel B.
 
 ## PLAY/STOP button
 
@@ -125,7 +125,7 @@ This feature specifies whether each step of the sequence is on or off. Steps tha
 
 ### SLIDE
 
-This feature allows you to specify how the value changes between steps. If this is on (button lit up), the pitch or value changes smoothly from one step to the next. If the sequencer mode is , the settings of each step of channel B will be used.
+This feature allows you to specify how the value changes between steps. If this is on (button lit up), the pitch or value changes smoothly from one step to the next. If the sequencer mode is **CV SLIDE**, the settings of each step of channel B will be used.
 
 ### STEP JUMP
 
