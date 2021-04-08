@@ -17,152 +17,14 @@
 
 | Bank | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|1| 
-|2| 
-|3| 
-|4| 
-|5| 
-|6| 
-|7| 
-|8| 
-<!--
- ... FROM OCR ...
-Synth
-Bass 1
-Solo
-Violin
-Harpsichord
-Si nusoidal
-Big
-Brass
-Synth
-Bass 2
-Steel
-Drum Band
-UFO
-7
-No.
-Bank
-2
-3
-4
-5
-6
-7
-8
-Brass 2
-Bowed
-Strings
-Piano 3
-Organ 3
-Synth
-Sweep
-Lead
-Synth 5
-Machines
-Jet
-2
-Brass 3
-Rich
-Strings
-Electric
-Piano 4
-Organ 4
-Poly
-Pulse
-Lead
-Synth 6
-Echo
-explosion
-Helicopter
-3
-Brass
-H orns
-Orchestra
-Loud-Piano
-Chowa
-Organ
-Cosmo
-Sweep
-Inv-SoIo
-ooops
-4
-Fat
-Brass 1
-Syn
-Orchestra
-Piano.FX
-Organ 3
-Chorus
-Pluck
-Clarinet
-Jet
-Chord
-WET
-5
-Trumpets
-String
-Sweep
-Clavichord
-Accordion
-Bells 2
-Oboe
-Take-Off
-oooh SCARY
-6
-Brass
-Swell
-Solo
-Violin 2
-Harpsichord
-Vocoder
-Vibe
-Synth
-Bass 3
-Whistle
-What the
-2
-Poly
-Synth 2
-Double
-Basses
-Acoustic
-Guitar
-Voices 2
-Koto
-Synth
-Bass 4
-Surprise
-Synth
-Toms
-eRoland
-8
-Electro
-Drum
-Pizzicato
-Piano
-pad
-Voices I
-Pad 1
-Sequencer
-Bass
-Harp
-Timps
-8
-Poly
-Synth 3
-Ominous
-Bass
-Piano
-Harmonica
-Bell
-Chime 3
-Uprite
-Bass
-Oct Jump
-Kick
-
--->
+|1|  Brass 2 | Brass 3 | Brass Horns |  Fat Brass 1 | Trumpets | Brass Swell | Poly Synth 2 | Poly Synth 3 | 
+|2|  Bowed Strings | Rich Strings | Orchestra |  Syn Orchestra | String Sweep | Solo Violin 2 | Double Basses | Ominous | 
+|3|  Piano 3 | Electric Piano 4 | Loud-Piano |  Piano-FX | Clavichord | Harpsichord 2 | Acoustic Guitar | Bass Piano | 
+|4|  Organ 3 | Organ 4 | Chowa Organ |  Pipe Organ 3 | Accordion | Vocoder | Voices 2 | Harmonica | 
+|5|  Synth Sweep | Poly Pulse | Cosmo Sweep |  Chorus Pluck | Bells 2 | Vibe | Koto | Bell Chime 3 | 
+|6|  Lead Synth 5 | Lead Synth 6 | Inv-SoIo |  Clarinet | Oboe | Synth Bass 3 | Synth Bass 4 | Uprite Bass | 
+|7|  Machines | Echo explosion | ooops |  Jet Chord | Take-Off | Whistle | Surprise | Oct Jump | 
+|8|  Jet | Helicopter | Dogs Bark |  WET | oooh SCARY | What the | Synth Toms | Kick | 
 
 ## Panel Description
 
@@ -176,20 +38,10 @@ Kick
 
 ## Features
 
-- The Roland MKS-50 is fully programmable six
-voice polyphonic synthesizer sound module
-which can be controlled by the external MIDI
-device.
-- The MIDI Mono Mode makes the MKS-50
-extremely useful as the sound module for the
-MIDI Guitar System.
-- The MKS-50 features the memory capacity that
-can store up to 128 different sounds (=Tones)
-and the 128 combinations of the Tones and the
-performance control functions (=Patches)
-- The Chord Memory function allows to play
-any of the 16 chords you have programmed
-by playing only one key.
+- The Roland MKS-50 is fully programmable six voice polyphonic synthesizer sound module which can be controlled by the external MIDI device.
+- The MIDI Mono Mode makes the MKS-50 extremely useful as the sound module for the MIDI Guitar System.
+- The MKS-50 features the memory capacity that can store up to 128 different sounds (=Tones) and the 128 combinations of the Tones and the performance control functions (=Patches)
+- The Chord Memory function allows to play any of the 16 chords you have programmed by playing only one key.
 
 ## IMPORTANT NOTES
 
@@ -223,12 +75,12 @@ When using the MKS-50 as a sound module of the keyboard, sequencer or computer, 
 
 <!-- TODO: Update this page number make a link -->
 
-Some of the Roland's new model MIDI Guitar System features the MIDI Mono mode, but the previous wpe guitar synthesizers (eg. GR-700, GR-77B) can select only the Poly mode; refer to "MKS-50 as a Sound Module of the Keyboard (Poly Mode)" on page 12.
+Some of the Roland's new model MIDI Guitar System features the MIDI Mono mode, but the previous wpe guitar synthesizers (eg. GR-700, GR-77B) can select only the Poly mode; refer to "[MKS-50 as a Sound Module of the Keyboard (Poly Mode)]" on page 12.
 
 The MKS-50's Mono mode does not allow to set a different voice for each note separately. This is because each channel is not perfectly independent. The Note Message (e.g. pitch, volume) and the Bender message (guitar's chalking), however, are independent.
 
 <!-- TODO: Update this page number make a link -->
-Please read "Mode Selection" on page 42.
+Please read "[Mode Selection](#2-mode-selection)" on page 42.
 
 ### 1. THE MKS-50 AS A SOUND MODULE OF THE MIDI GUITAR SYSTEM (MONO MODE)
 
@@ -236,7 +88,7 @@ To obtain realistic guitar sound without spoiling its characteristic, the MKS-50
 
 #### a. Connection
 
-<!-- TODO: inser guitar connection diagram here -->
+<!-- TODO: insert guitar connection diagram here -->
 
 \* The MIDI THRU Connector sends out the copy of the signal fed into the MIDI IN. This fact technically allows one MIDI divice to control as many extemal MIDI devices. This, however, is not the case in practice. To connect more than three devices, use the optional MIDI THRU BOX MM-4 or MIDI Output Selector MPU-105.
 
@@ -246,7 +98,7 @@ To obtain realistic guitar sound without spoiling its characteristic, the MKS-50
 
 The basic setting needed for playing the system is preprogrammed in the MKS-50, but this program may have been changed. To initialize the MKS-SO, turn it on while holding the Number Buttons 3 and 7 down.
 
-\* Please note that initialization witl erase all the current data, replacing it with the preprogram- med data.
+\* Please note that initialization witl erase all the current data, replacing it with the preprogrammed data.
 
 Initialization is not needed from the second time you use the MKS-50.
 
@@ -324,4 +176,31 @@ The ▶ and ◀ shown on the both sides of the number represents as follows:
 |7 | 113 | 114 | 115 | 116 | 117 | 118 | 119 | 120 | 
 |8 | 121 | 122 | 123 | 124 | 125 | 126 | 127 | 128 | 
 
-### 2. MKS-50 AS A SOUND MODULE OF THE KEYBOARD
+### 2. MKS-50 AS A SOUND MODULE OF THE KEYBOARD (POLY MODE)
+
+To use the MKS-50 as a usual polyphonic sound module for the MIDI keyboard, sequencer etc, read the following instructions.
+
+#### a. Connection
+
+#### b. Initialization
+
+
+#### c. Power-up
+
+
+#### d. MIDI Channel Setting
+
+#### e. 
+
+#### f. 
+
+#### g. 
+
+
+
+
+
+
+
+
+## 2. MODE SELECTION
